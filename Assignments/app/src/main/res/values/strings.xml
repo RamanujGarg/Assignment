@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignments</string>
+
+    <string name="hint_search">Hint Search</string>
+    <string name="content_video">Content Video</string>
+
+    <string name="zero_up_vote">%1$s UpVote</string>
+    <string name="zero_down_vote">%1$s DownVote</string>
+</resources>
